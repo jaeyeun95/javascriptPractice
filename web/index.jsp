@@ -13,6 +13,13 @@
 			<li><a href="views/testjs/sample5.jsp">주석문, 변수, 연산자, 자료형 테스트페이지</a></li>
 			<li><a href="views/testjs/sample6.jsp">자바스크립트에서 배열 다루기</a></li>
 			<li><a href="views/testjs/sample7.jsp">자바스크립트에서 함수 정의하기 </a></li>
+			<li><a href="views/testjs/sample8.jsp">자바스크립트에서 객체(json) 다루기</a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
 		</ul>
 </body>
 </html>
