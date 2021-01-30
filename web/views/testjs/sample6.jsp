@@ -42,6 +42,21 @@
 	}
 </script>
 </p>
+<hr>
+<h2>내장된 Array 객체가 제공하는 메소드와 속성(멤버변수 : 필드)</h2>
+<p>
+<script type="text/javascript">
+	var array = ["java", "oracle", "html5", "css3", "javascript", "jqeury", "jdbc",
+		"servlet", "jsp", "ajax"];
+	document.write("array : " + array.toString() + "<br>");
+	document.write("array : " + array + "<br>");	//toString()자바에서 생략되도 자동으로 됨.
+	document.write("indexOf : " + array.indexOf("css3") + "<br>");
+	document.write("reverse : " + array.reverse() + "<br>");
+	document.write("shift : " + array.shift() + "<br>");
+	document.write("array : " + array.toString() + "<br>");
+	document.write("sort : " + array.sort().toStirng() + "<br>");
+</script>
+</p>
 
 
 
