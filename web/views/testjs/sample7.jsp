@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>testj</title>
+<script type="text/javascript" src="/testj/resources/js/jquery-3.5.1.min.js"></script>
 </head>
 <body>
 <h1>자바스크립트에서 함수 다루기</h1>
